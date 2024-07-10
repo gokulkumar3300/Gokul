@@ -11478,19 +11478,19 @@ pre {
 
 .header .container .infos .subtitle {
   margin-bottom: 0;
-  font-size: 15px;
+  font-size: 25px;
   font-weight: 500;
 }
 
 .header .container .infos .title {
   margin-bottom: 0px;
-  font-size: 65px;
+  font-size: 54px;
   font-weight: bold;
 }
 
 .header .container .infos p {
   margin-top: -5px;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .header .container .infos .btn {
